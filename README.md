@@ -3,9 +3,11 @@
 
 2. 200 patients' MRI (axial view; from ProstateX Datasets (https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges#23691656b8a499cbc0a24a56b7ea0a7422d51994)) and the prostate zonal segmentation annotations were uploaded. 
 
-3. Feel free to use the prostate zonal annotations. If you have any question, please email me (liuyongkai1009@g.ucla.edu)
+3. label 1 and 2 in the mask indicates the pheripheral and transitional zones, respectively. Their boundaries were enclosed by 255. 
 
-4. References should include the following papers:
+4. Feel free to use the prostate zonal annotations. If you have any question, please email me (liuyongkai1009@g.ucla.edu)
+
+5. References should include the following papers:
 
 "Y. Liu et al., "Automatic Prostate Zonal Segmentation Using Fully Convolutional Network With Feature Pyramid Attention," in IEEE Access, vol. 7, pp. 163626-163632, 2019, doi: 10.1109/ACCESS.2019.2952534"
 
