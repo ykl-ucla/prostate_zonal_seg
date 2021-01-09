@@ -1,4 +1,4 @@
-# prostate_zonal_seg
+# prostate zonal segmentation
 1. This is a deep learning-based algorithm for the prostate zonal segmentations (for the paper: "Automatic Prostate Zonal Segmentation Using Fully Convolutional Network With Feature Pyramid Attention" - https://ieeexplore.ieee.org/document/8894451)
 
 2. 200 patients' MRI (axial view; from ProstateX Datasets (https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges#23691656b8a499cbc0a24a56b7ea0a7422d51994)) and the prostate zonal segmentation annotations were uploaded. 
