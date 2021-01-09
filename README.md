@@ -3,7 +3,7 @@
 
 2. 200 patients' MRI (axial view; from ProstateX Datasets (https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges#23691656b8a499cbc0a24a56b7ea0a7422d51994)) and the prostate zonal segmentation annotations were uploaded. 
 
-3. Feel free to use the prostate zonal annotations. 
+3. Feel free to use the prostate zonal annotations. If you have any question, please email me (liuyongkai1009@g.ucla.edu)
 
 4. References should include the following papers:
 
