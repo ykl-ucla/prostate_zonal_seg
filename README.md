@@ -10,7 +10,7 @@ David Geffen School of Medicine, UCLA. Thanks for Dr.  Zhong and Dr. Yeejin Lee 
 
 3. label 1 and 2 in the mask indicates the pheripheral and transitional zones, respectively. Their boundaries were enclosed by 255. 
 
-4. Feel free to use the prostate zonal annotations. If you have any question, please email me (liuyongkai1009@g.ucla.edu)
+4. Feel free to use the prostate zonal annotations. If you have any question, please email me (liuyongkai1009@g.ucla.edu).
 
 5. References should include the following papers:
 
